@@ -1,0 +1,4 @@
+would you like to move the files that failed to commit to a separate changelist
+
+
+https://git.coding.net/appcpx/ngbj-android.git
